@@ -4,6 +4,6 @@
 
 
 int main(){
-    printf( "hello Carina Young!");
+    printf( "hello Carina Young!\n");
     return 0;
 }
